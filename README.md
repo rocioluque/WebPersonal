@@ -45,5 +45,5 @@ Una página web profesional de currículum desarrollada con HTML, CSS y JavaScri
 
 Si tienes preguntas sobre la implementación o personalización, puedes contactarme a través de:
 - Email: rocioluq4@gmail.com
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/rocio-luque-valiente-3ab8002b7/)
+- LinkedIn: [Rocío Luque Valiente](https://www.linkedin.com/in/rocio-luque-valiente-3ab8002b7/)
 - GitHub: [rocioluque](https://github.com/rocioluque)
