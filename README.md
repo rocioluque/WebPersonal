@@ -1,4 +1,4 @@
-# Mi Currículum Web
+# Web Personal
 
 Una página web profesional de currículum desarrollada con HTML, CSS y JavaScript, optimizada para GitHub Pages.
 
